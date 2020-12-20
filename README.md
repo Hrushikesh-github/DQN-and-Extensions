@@ -1,4 +1,4 @@
-# DQN-and-Modifications-on-Pong
+# DQN-and-Extensions-on-Pong
 
 Using Deep Q-Networks and it's Extensions N-step DQN and Double DQN to solve [pong-an atari game](https://gym.openai.com/envs/Pong-v0/)
 
