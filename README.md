@@ -73,9 +73,13 @@ Also, Double DQN's convergence has lesser percentage compared to others, one of 
 
 
 THe purpose of using Double DQN can be seen here, the blue denotes the average loss in the training process for N-step and red that of Double DQN. A lesser loss is an indication that Q-value predicted by the network is not higher than the ideal. Since N-step DQN doesn't consider fixing the over-estimation, it's loss value is higher. 
-![avg_loss](https://user-images.githubusercontent.com/56476887/102718595-ff7e4300-430e-11eb-88e5-b63f51e0c6e2.png)
+
 
 Average reward over 100 episodes. Note that the basic DQN took over 500K iterations to complete whereas N-step DQN does it within 250K iterations. An incredible performance.
+
+![avg_loss](https://user-images.githubusercontent.com/56476887/102718595-ff7e4300-430e-11eb-88e5-b63f51e0c6e2.png)
 ![avg_reward](https://user-images.githubusercontent.com/56476887/102718603-060cba80-430f-11eb-9e8e-a7c699e27ee0.png)
+
+
 
 Other methods such as Dueling DQN, Prioritzed DQN networks are more popular and RAINBOW DQN uses the best of all these modifications to implement the DQN.
