@@ -83,3 +83,6 @@ Average reward over 100 episodes. Note that the basic DQN took over 500K iterati
 
 
 Other methods such as Dueling DQN, Prioritzed DQN networks are more popular and RAINBOW DQN uses the best of all these modifications to implement the DQN.
+
+
+Tensorboard loogers, Recordings, Models at various stages of training are uploaded
