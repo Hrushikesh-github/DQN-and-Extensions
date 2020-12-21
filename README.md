@@ -26,7 +26,7 @@ The training is completed after going through around 510K frames. It took approx
 ![Screenshot from 2020-12-20 23-16-03](https://user-images.githubusercontent.com/56476887/102720374-eaf37800-4319-11eb-9b3e-ae2408f33998.png)
 
 
-The frames per second (fps) processed in training was around 27 and the mean reward (averaged over last 100 episodes) obtained
+The frames per second (fps) processed in training was around 27 and the mean reward (over 100 episodes) is
 ![normal_fps](https://user-images.githubusercontent.com/56476887/102718670-5552eb00-430f-11eb-8e08-d872bee46299.png)
 
 
